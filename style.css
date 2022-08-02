@@ -3,3 +3,38 @@ body {
   height: 100%;
   margin: 0;
 }
+h1{
+  text-align:center ;
+}
+.nav{
+  padding-left: 10px;
+  padding: right 10px;
+  color: blue;
+  
+
+
+  
+}
+#details{
+  display: flex;
+  content: '\ea25';
+  background-color: red;
+  
+}
+*{
+  text-align: center;
+}
+div{
+  
+  width: 35%;
+  display:center;
+  margin-left:
+}
+#featured-properties{
+  width: 30%;
+}
+.content{
+  margin-left: 25%;
+  width: 50%;
+  
+}
